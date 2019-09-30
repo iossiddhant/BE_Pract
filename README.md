@@ -5,3 +5,6 @@ java,maven,spring,mysql,xlm
 sources to use stack overflow, IDE - intelliJ
 project cloned, and ready to start development
 
+learnings Command:
+mvn spring-boot:run
+
